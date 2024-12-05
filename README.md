@@ -123,7 +123,7 @@ shopease/
 ## **Screenshots**
 
 ### **Product Catalog**
-![Product Catalog](https://via.placeholder.com/800x400?text=Product+Catalog)
+![Product Catalog](public/Screenshot%202024-12-05%20175309.png)
 
 ### **Shopping Cart**
 ![Shopping Cart](https://via.placeholder.com/800x400?text=Shopping+Cart)
