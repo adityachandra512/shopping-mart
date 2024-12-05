@@ -1,5 +1,3 @@
-Here’s an updated **README.md** tailored to your project **Shopease** with the new details provided:
-
 ---
 
 # **Shopease**
@@ -178,7 +176,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 For questions or feedback, feel free to reach out:  
 **Your Name**  
 - Email: adityachandra419@gmail.com  
-- GitHub: [username](https://github.com/adityachandra512)
+- GitHub: [aditya](https://github.com/adityachandra512)
 
 ---
 
@@ -187,5 +185,3 @@ For questions or feedback, feel free to reach out:
 - All data is handled and shown dynamically through the frontend React components.
 
 ---
-
-Feel free to replace the placeholders such as `your-username` and `your-email@example.com` with your actual details!
